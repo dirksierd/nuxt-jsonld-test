@@ -10,6 +10,7 @@
     script: [
       {
         type: 'application/ld+json',
+        key: 'json-ld',
         innerHTML: {
           '@context': 'http://schema.org',
           '@graph': [
